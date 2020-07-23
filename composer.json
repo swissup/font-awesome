@@ -2,9 +2,9 @@
     "name": "swissup/font-awesome",
     "description": "FontAwesome for Magento2",
     "type": "metapackage",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "license": "MIT",
     "require": {
-        "swissup/module-font-awesome": "^1.4.0"
+        "swissup/module-font-awesome": "^1.4.2"
     }
 }
